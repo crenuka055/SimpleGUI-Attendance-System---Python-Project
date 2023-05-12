@@ -1,0 +1,2 @@
+# SimpleGUI Attendance System - Python Project
+ Welcome to the SimpleGUI Attendance System, a Python-based project designed to streamline attendance management using a sleek and intuitive graphical user interface (GUI).  This project offers a comprehensive solution for recording and managing attendance records with ease. With just a few clicks, users can effortlessly add new members, mark attendance, and generate insightful reports. The user-friendly GUI, built using Python's Tkinter library, ensures a smooth and engaging experience.
